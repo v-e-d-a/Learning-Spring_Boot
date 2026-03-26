@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Environment files — NEVER push secrets
+.env
+application-local.properties
